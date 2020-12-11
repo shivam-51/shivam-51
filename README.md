@@ -1,4 +1,4 @@
-### Hi there 👋, I am Shivam (He/Him)
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **shivam-51/shivam-51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Shivam Singh(He/Him), an undergraduate student from IIEST Shibpur. Do you have something fun to chat about? Connect with me at:
+
 <a href="https://www.linkedin.com/in/shivamhere/">
   <img align="left" alt="Shivam's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.facebook.com/heyshivam51/">
+  <img align="left" alt="Shivam's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
+</a>
+
 <a href="https://t.me/ShivamSingh51">
   <img align="left" alt="Shivam's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
