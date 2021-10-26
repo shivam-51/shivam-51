@@ -32,6 +32,9 @@ I am Shivam Singh(He/Him), an undergraduate student from IIEST Shibpur. Do you h
 <a href="https://leetcode.com/shivam51/">
   <img align="left" alt="Shivam's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<a href="https://shivam51.medium.com">
+  <img align="left" alt="Shivam's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shivam-51.shivam-51)
 
